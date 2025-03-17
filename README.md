@@ -139,10 +139,6 @@ If you encounter installation issues:
 
 This tool is provided for educational and legitimate security testing purposes only. Always ensure you have proper authorization before using these tools on any system or network.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
